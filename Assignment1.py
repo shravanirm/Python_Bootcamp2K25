@@ -2,7 +2,7 @@
 print('Task 1')
 # Task 1: Print 5 different messages
 print("Welcome to Python programming!")  # M 1
-print("Python is high level programing language")
+print("Python is high level programming language")
 print("hi my name is shravani.")  # M 3
 print("how are you?")  # M 4
 print("hello")  # M 5
